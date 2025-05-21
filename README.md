@@ -61,10 +61,12 @@ For different input combinations generate the timing diagram.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![4](https://github.com/user-attachments/assets/551787ae-dc93-4b9b-9717-9be814e956b8)
 
+
+
 **RESULT**
 Thus the D flipflop using verilog and validating their functionality using their functional tables is verified.
 
 
 
 
-**RESULTS**
+
